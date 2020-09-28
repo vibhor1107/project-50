@@ -1,0 +1,19 @@
+h1 {
+    color:red;
+}
+
+.header{
+    background-color: black;
+    display:flex;
+    justify-content: space-between;
+
+}
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+body{
+    background-color: lightblue;
+}
